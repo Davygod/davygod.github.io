@@ -14,3 +14,4 @@ VefÞ1
   * [Verkefni 3.3](verkefni_3/verk33)
   * [Verkefni 3.4](verkefni_3/verk34)
   * [Verkefni 3.5](verkefni_3/verk35)
+4. Verkefni 4
