@@ -112,3 +112,13 @@ blockquote {
 .gap-4 {
     grid-gap: 4em
 }
+img {
+    max-width : 100%;
+    height: auto;
+}
+.flright {
+    float: right;
+}
+div{
+    
+}
