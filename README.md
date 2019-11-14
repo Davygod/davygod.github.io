@@ -16,5 +16,4 @@ VefÞ1
   * [Verkefni 3.5](verkefni_3/verk35)
   * [Verkefni 4](verkefni_4)
   * [Forsíðan](index.html)
-6. Verkefni 6
- * [Netsíða](aefing-nemar/)
+  * [Netsíðan](aefing-nemar/index.html)
