@@ -15,5 +15,5 @@ VefÞ1
   * [Verkefni 3.4](verkefni_3/verk34)
   * [Verkefni 3.5](verkefni_3/verk35)
 4. [Verkefni 4](verkefni_4)
-  * [Forsíðan](index.html)
-  * [Netsíðan](myndir.html)
+5. [Verkefni 5](index.html)
+6. [Verkefni 6](myndir.html)
