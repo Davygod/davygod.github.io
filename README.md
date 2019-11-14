@@ -16,4 +16,4 @@ VefÞ1
   * [Verkefni 3.5](verkefni_3/verk35)
 4. [Verkefni 4](verkefni_4)
 5. [Verkefni 5](index.html)
-6. [Verkefni 6](\aefing-nemar)
+6. [Verkefni 6](C:\Users\david\OneDrive\Davíð\TS\Vefhonnun\VEF1VG-3\aefing-nemar\index.html)
